@@ -2,6 +2,7 @@ package hello.core.member.impl;
 
 import hello.core.member.Member;
 import hello.core.member.MemberRepository;
+import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
 import java.util.Map;
